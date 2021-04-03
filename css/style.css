@@ -1298,6 +1298,7 @@ Topbar
 #header .header-inner #logo a .logo-default,
 #header #header-wrap #logo a .logo-default {
   display: block;
+  max-width: 80%;
 }
 #header .header-inner #logo a,
 #header .header-inner #logo a span,
@@ -1477,6 +1478,8 @@ Topbar
 .dark #header #header-wrap #logo a .logo-dark,
 #header.dark .header-inner #logo a .logo-dark,
 #header.dark #header-wrap #logo a .logo-dark {
+  margin-top: 2vh;
+  max-width: 90%;
   display: block;
 }
 .dark #header .header-inner #logo a,
@@ -2054,7 +2057,7 @@ Dots Menu
 }
 #dotsMenu ul {
   list-style: none;
-  padding-bottom: 18px;
+  padding-bottom: 20px;
 }
 #dotsMenu ul li {
   text-align: right;
