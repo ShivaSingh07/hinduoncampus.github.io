@@ -18484,7 +18484,7 @@ body[data-bg-image] {
 }
 
 .mandala {
-  animation: mandala 60s linear infinite;
+  animation: mandala 90s linear infinite;
 }
 
 @keyframes mandala {
