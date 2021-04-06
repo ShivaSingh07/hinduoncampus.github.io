@@ -18508,4 +18508,20 @@ body[data-bg-image] {
   #top-counter {
     padding-top: 30px !important;
   }
+
+  #teal_mandala {
+    bottom: -10% !important;
+    max-width: 70% !important;
+  }
+
+  #white_mandala {
+    max-width: 95% !important;
+    margin-left: auto !important;
+    margin-top: -40% !important;
+  }
+  #landing_text
+  {
+    font-size: 1.8em;
+    letter-spacing: 13px !important;
+  }
 }
