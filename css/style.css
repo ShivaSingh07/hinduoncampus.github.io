@@ -12167,7 +12167,7 @@ a.btn:not([href]):not([tabindex]).disabled {
 .heading-text.heading-gradient h2 > * {
   -webkit-text-fill-color: transparent !important;
   -webkit-background-clip: text !important;
-  background: radial-gradient(circle at left top, #4b72ff 9%, #00a4b4 48%, #6442ff 91%);
+  background: radial-gradient(circle at left top, #005078 9%, #007878 48%, #00A0B4 91%);
 }
 .heading-text.heading-section h2 {
   position: relative;
